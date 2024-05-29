@@ -21,6 +21,8 @@ principais_temas:
 
 # Entrevista com Catarina Ferreira
 
+![Fotografia](Arquivo_UMSombra/EntrevistasAVD/FranciscaPimenta/fotoFrancisca.jpeg)
+
 ## Introdução
 
 <entrevistadora> Bom dia, Catarina. Obrigada mais uma vez por concordares em participar nesta entrevista. Estou ansiosa para saber mais sobre ti.</entrevistadora>
